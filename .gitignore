@@ -1,0 +1,6 @@
+# Dirs
+/.idea
+/vendor
+
+# Files
+/composer.json
